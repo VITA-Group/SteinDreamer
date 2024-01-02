@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SteinDreamer/static/css/main.1940973d.css",
-    "main.js": "/SteinDreamer/static/js/main.186b252b.js",
+    "main.js": "/SteinDreamer/static/js/main.082692cc.js",
     "static/js/787.4abed053.chunk.js": "/SteinDreamer/static/js/787.4abed053.chunk.js",
     "static/media/video1.mp4": "/SteinDreamer/static/media/video1.522a1af20fee54db264c.mp4",
     "static/media/video3.mp4": "/SteinDreamer/static/media/video3.c6f6c516dcd8fb29f590.mp4",
@@ -85,11 +85,11 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/SteinDreamer/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/SteinDreamer/index.html",
     "main.1940973d.css.map": "/SteinDreamer/static/css/main.1940973d.css.map",
-    "main.186b252b.js.map": "/SteinDreamer/static/js/main.186b252b.js.map",
+    "main.082692cc.js.map": "/SteinDreamer/static/js/main.082692cc.js.map",
     "787.4abed053.chunk.js.map": "/SteinDreamer/static/js/787.4abed053.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1940973d.css",
-    "static/js/main.186b252b.js"
+    "static/js/main.082692cc.js"
   ]
 }
