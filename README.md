@@ -11,10 +11,10 @@ Peihao Wang, Zhiwen Fan, Dejia Xu, Dilin Wang, Sreyas Mohan, Forrest Iandola, Ra
 If you find this work or our work helpful for your own research, please cite our paper.
 
 ```
-@inproceedings{wang2024steindreamer,
-title={SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identityn},
-author={Wang, Peihao and Fan, Zhiwen and Xu, Dejia and Wang, Dilin and Mohan, Sreyas and Iandola, Forrest and Ranjan, Rakesh and Li, Yilei and Liu, Qiang and Wang, Zhangyang and Chandra, Vikas},
-year={arXiv preprint},
-year={2024}
+@article{wang2023steindreamer,
+  title={SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity},
+  author={Wang, Peihao and Fan, Zhiwen and Xu, Dejia and Wang, Dilin and Mohan, Sreyas and Iandola, Forrest and Ranjan, Rakesh and Li, Yilei and Liu, Qiang and Wang, Zhangyang and others},
+  journal={arXiv preprint arXiv:2401.00604},
+  year={2023}
 }
 ```
