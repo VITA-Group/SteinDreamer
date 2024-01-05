@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/SteinDreamer/static/css/main.1940973d.css",
-    "main.js": "/SteinDreamer/static/js/main.3ae655a1.js",
+    "main.js": "/SteinDreamer/static/js/main.45015dec.js",
     "static/js/787.4abed053.chunk.js": "/SteinDreamer/static/js/787.4abed053.chunk.js",
     "static/media/video1.mp4": "/SteinDreamer/static/media/video1.522a1af20fee54db264c.mp4",
-    "static/media/video3.mp4": "/SteinDreamer/static/media/video3.c6f6c516dcd8fb29f590.mp4",
+    "static/media/video3.mp4": "/SteinDreamer/static/media/video3.8206b82429429d7cb7b0.mp4",
     "static/media/video2.mp4": "/SteinDreamer/static/media/video2.595646f88d39b50abac4.mp4",
     "static/media/brand-icons.svg": "/SteinDreamer/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/pipeline.png": "/SteinDreamer/static/media/pipeline.61484ee8445c5226750f.png",
@@ -85,11 +85,11 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/SteinDreamer/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/SteinDreamer/index.html",
     "main.1940973d.css.map": "/SteinDreamer/static/css/main.1940973d.css.map",
-    "main.3ae655a1.js.map": "/SteinDreamer/static/js/main.3ae655a1.js.map",
+    "main.45015dec.js.map": "/SteinDreamer/static/js/main.45015dec.js.map",
     "787.4abed053.chunk.js.map": "/SteinDreamer/static/js/787.4abed053.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1940973d.css",
-    "static/js/main.3ae655a1.js"
+    "static/js/main.45015dec.js"
   ]
 }
